@@ -33,6 +33,11 @@ jupyter notebook boston_housing.ipynb
 
 This will open the Jupyter Notebook software and project file in your browser.
 
+### Project Report
+
+Report can be viewed at [**https://amolpol98.github.io/boston_housing/**](https://amolpol98.github.io/boston_housing/).
+
+
 ### Data
 
 The modified Boston housing dataset consists of 489 data points, with each datapoint having 3 features. This dataset is a modified version of the Boston Housing dataset found on the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Housing).
